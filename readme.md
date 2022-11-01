@@ -1,8 +1,8 @@
-# Web socket chat in Golang
+# Веб чат на golang
 
-Built a simple and easy to understand websocket chat in golang.
+Простой чат на golang и socket.io
 
-## Run
+## Запуск
 
 ```bash
 go run .
